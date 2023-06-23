@@ -40,6 +40,7 @@ En résumé, la couche de services est responsable de la logique métier de l'ap
        <img src="src/app/img/9.PNG"/>
        A la fin ces inforamations vont etre enregistrés.
         <img src="src/app/img/10.PNG"/>
+        Pour conclure ,cette application est une occasion d'appliquer les techniques apprises pendant le cours;elle comprenne tous les type de couches existantes dans un projet spring boot ainsi d'apprendre angular qui est un framework frontend. 
  
 
 
