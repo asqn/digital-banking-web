@@ -21,7 +21,7 @@ RestController : Un RestController est un composant utilisé dans le développem
 En résumé, la couche de services est responsable de la logique métier de l'application, les DTO sont utilisés pour transférer des données entre les différentes couches et les RestControllers sont utilisés pour créer des services web RESTful et gérer les requêtes HTTP.
  <h3> Partie 3 et 4 : Client Angular</h3>
  Notre application est créee avec le framework angular pour la lancer il faut taper ng serve , cette fenetre s'ouvre:
- <img src="/img/1.PNG"/>
+ <img src="src/app/img/1.PNG"/>
 
 
 
