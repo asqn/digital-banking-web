@@ -22,6 +22,25 @@ En résumé, la couche de services est responsable de la logique métier de l'ap
  <h3> Partie 3 et 4 : Client Angular</h3>
  Notre application est créee avec le framework angular pour la lancer il faut taper ng serve , cette fenetre s'ouvre:
  <img src="src/app/img/1.PNG"/>
+ Il existe trois consumers Hassan,Imane et Mohammed avec un icone de suppression de client et l'autre pour consulter les comptes.
+ Pour chercher un utilisateur par exemple Mohammed il suffit de taper mo sur la barre de recherche et la fonction s'exécute:
+ <img src="src/app/img/2.PNG"/>
+ Pour créer un nouveau client ,il siffit de remplir le formulaire suivant en tapant le nom et l'email et pour valider on tape save et le client va eter enregistrer.
+  <img src="src/app/img/3.PNG"/>
+  <img src="src/app/img/4.PNG"/>
+  Pour consulter le compte d'un utilisateur il suffit de taper sur accounts:
+   <img src="src/app/img/5.PNG"/>
+   Afin de supprimer un client on tape l'icone rouge et un messgae de confirmation s'affiche:
+    <img src="src/app/img/6.PNG"/>
+    La dernière fonctionnalite dans notre application et de consulter les comptes et faire quelques traitements de debit,credit et de transfert:
+     <img src="src/app/img/7.PNG"/>
+     Premièrement,on prend l'id du backend et on le colle sur la barre de recherche:
+      <img src="src/app/img/8.PNG"/>
+      Après le client a le choix de choisir quel opération il souhaite effectuer:
+       <img src="src/app/img/9.PNG"/>
+       A la fin ces inforamations vont etre enregistrés.
+        <img src="src/app/img/10.PNG"/>
+ 
 
 
 
