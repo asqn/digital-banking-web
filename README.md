@@ -32,6 +32,8 @@ En résumé, la couche de services est responsable de la logique métier de l'ap
    <img src="src/app/img/5.PNG"/>
    Afin de supprimer un client on tape l'icone rouge et un messgae de confirmation s'affiche:
     <img src="src/app/img/6.PNG"/>
+    Et voila l'utilisateur asmaa est supprimé.
+    <img src="src/app/img/1.PNG"/>
     La dernière fonctionnalite dans notre application et de consulter les comptes et faire quelques traitements de debit,credit et de transfert:
      <img src="src/app/img/7.PNG"/>
      Premièrement,on prend l'id du backend et on le colle sur la barre de recherche:
